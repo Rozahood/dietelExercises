@@ -13,11 +13,7 @@ import java.util.Scanner;
          pounds = input.nextDouble();
         
      kilograms = pounds * 0.454;
-             System.out.println(pounds + " is " + kilograms + "kilogrames"); 
-             
-
-
-
+             System.out.println(pounds + " is " + kilograms + "kilograms");
 
        }
 

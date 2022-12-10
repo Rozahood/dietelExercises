@@ -6,6 +6,6 @@ public class Print {
         System.out.println("***");
         System.out.println("*****");
         System.out.println("****");
-        System.out.println("* *");
+        System.out.println("**");
     }
 }
