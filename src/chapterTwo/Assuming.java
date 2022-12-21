@@ -11,10 +11,6 @@ public class Assuming {
         System.out.println("input second number: ");
         int y = input.nextInt();
 
-        System.out.println("input third number: ");
-        int z = input.nextInt();
-
-
         System.out.printf("x = %d%n", x + 5);
         System.out.printf("Value of %d * %d is %d\n", x, y, (x * y) );
         System.out.printf("x is %d and y is %d", x, y);

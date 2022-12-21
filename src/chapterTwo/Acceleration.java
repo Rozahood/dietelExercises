@@ -7,19 +7,15 @@ import java.util.Scanner;
      Scanner input = new Scanner(System.in);
   
         System.out.println("Enter initial velocity (V0): ");
-          double V0 = input.nextDouble();
-             System.out.println("Enter ending velocity (V1): ");
-          double V1 = input.nextDouble();
-             System.out.println("Enter time (t): ");
+          double initialVelocity = input.nextDouble();
+          System.out.println("Enter ending velocity (V1): ");
+          double endingVelocity = input.nextDouble();
+          System.out.println("Enter time (t): ");
           double time = input.nextDouble();
 
 
-       double acceleration = (V1 - V0) /time;
-            System.out.println("average acceleraton: " + acceleration);
-          double Vo = input.nextDouble();
-             
-
-
+       double acceleration = (endingVelocity - initialVelocity) /time;
+       System.out.println("average acceleration: " + acceleration);
 
        }
 

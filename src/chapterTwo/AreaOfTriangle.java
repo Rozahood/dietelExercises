@@ -8,20 +8,13 @@ import java.util.Scanner;
         double base;
         double height;
 
-           System.out.println("Enter base of triangle: ");
+        System.out.println("Enter base of triangle: ");
          base = input.nextDouble();
-             System.out.println("Enter height of triangle: ");
+         System.out.println("Enter height of triangle: ");
          height = input.nextDouble();
 
 
-       double Area1 = base * height;
-
-       double Area = Area1 / 2;
-             System.out.println(" Area of triangle: " + Area ); 
-             
-
-
-
+       System.out.println(" Area of triangle: " + base * height / 2);
        }
 
 }
