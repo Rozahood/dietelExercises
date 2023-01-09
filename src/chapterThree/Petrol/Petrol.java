@@ -1,4 +1,4 @@
-package chapterThree;
+package chapterThree.Petrol;
 
 public class Petrol {
     public static void main(String[] args) {

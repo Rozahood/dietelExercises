@@ -15,6 +15,7 @@ import java.util.Scanner;
 
 
        System.out.println(" Area of triangle: " + base * height / 2);
+
        }
 
 }

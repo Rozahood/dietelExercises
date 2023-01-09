@@ -9,7 +9,8 @@ public class WhileLoop1 {
         int number = input.nextInt();
 
         while (number < 1 || number > 10){
-            System.out.print( number + "? Level up man!");
+            System.out.print
+                    ( number + "? Level up man!");
             int num = input.nextInt();
         }
 

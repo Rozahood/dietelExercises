@@ -1,4 +1,4 @@
-package chapterThree;
+package chapterThree.Petrol;
 
 public class PetrolPurchase {
     private String stationLocation;
