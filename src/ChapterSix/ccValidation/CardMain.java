@@ -1,6 +1,6 @@
-package ChapterSix.AtmCard;
+package ChapterSix.ccValidation;
 
-import static ChapterSix.AtmCard.CardType.*;
+import static ChapterSix.ccValidation.CardType.*;
 
 public class CardMain {
 

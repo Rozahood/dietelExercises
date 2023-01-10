@@ -1,4 +1,4 @@
-package ChapterSix.AtmCard;
+package ChapterSix.ccValidation;
 
 
 public enum CardType {

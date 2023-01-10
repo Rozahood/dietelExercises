@@ -1,10 +1,10 @@
-package ChapterSix.AtmCard;
+package ChapterSix.ccValidation;
 
 import java.security.SecureRandom;
 import java.util.Random;
 import java.util.Scanner;
 
-import static ChapterSix.AtmCard.CardType.*;
+import static ChapterSix.ccValidation.CardType.*;
 
 
 public class AtmCard {
